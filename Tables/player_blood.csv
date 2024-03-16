@@ -1,0 +1,11 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Blood,17,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+Texture2D/huge_vfx0016.png,0,"0",340,340
+Texture2D/huge_vfx0017.png,0,"0",340,340
+Texture2D/huge_vfx0018.png,0,"0",340,340
+Texture2D/huge_vfx0019.png,0,"0",340,340
+Texture2D/huge_vfx0020.png,0,"0",340,340
+Texture2D/huge_vfx0021.png,0,"0",340,340
+Texture2D/invisible.png,0,"0",100,100
