@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# build Result
+*.pdb
+.vs/
+*.exe

@@ -1,0 +1,14 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Skeleton_Dead,20,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/AllParticles001.png,0,"0",700,500
+PlusSprite/AllParticles002.png,0,"0",700,500
+PlusSprite/AllParticles003.png,0,"0",700,500
+PlusSprite/AllParticles004.png,0,"0",700,500
+PlusSprite/AllParticles005.png,0,"0",700,500
+PlusSprite/AllParticles006.png,0,"0",700,500
+PlusSprite/AllParticles007.png,0,"0",700,500
+PlusSprite/AllParticles008.png,0,"0",700,500
+PlusSprite/AllParticles009.png,0,"0",700,500
+Texture2D/invisible.png,0,"0",100,100

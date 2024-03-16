@@ -1,0 +1,10 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Move,17,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/Player_Move.png,0,"0",100,140
+PlusSprite/Player_Move.png,100,"0",100,140
+PlusSprite/Player_Move.png,200,"0",100,140
+PlusSprite/Player_Move.png,300,"0",100,140
+PlusSprite/Player_Move.png,400,"0",100,140
+PlusSprite/Player_Move.png,500,"0",100,140

@@ -1,0 +1,13 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+booperSelected,17,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/booper0001_s.png,1900,"0",100,100
+PlusSprite/booper0001_s.png,2000,"0",100,100
+PlusSprite/booper0001_s.png,2100,"0",100,100
+PlusSprite/booper0001_s.png,2200,"0",100,100
+PlusSprite/booper0001_s.png,2300,"0",100,100
+PlusSprite/booper0001_s.png,2400,"0",100,100
+PlusSprite/booper0001_s.png,2500,"0",100,100
+PlusSprite/booper0001_s.png,2600,"0",100,100
+PlusSprite/booper0001_s.png,2700,"0",100,100

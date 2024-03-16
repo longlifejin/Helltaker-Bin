@@ -1,0 +1,16 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Skeleton_Idle,17,"1",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/Skeleton_Idle.png,0,"0",100,120
+PlusSprite/Skeleton_Idle.png,100,"0",100,120
+PlusSprite/Skeleton_Idle.png,200,"0",100,120
+PlusSprite/Skeleton_Idle.png,300,"0",100,120
+PlusSprite/Skeleton_Idle.png,400,"0",100,120
+PlusSprite/Skeleton_Idle.png,500,"0",100,120
+PlusSprite/Skeleton_Idle.png,600,"0",100,120
+PlusSprite/Skeleton_Idle.png,700,"0",100,120
+PlusSprite/Skeleton_Idle.png,800,"0",100,120
+PlusSprite/Skeleton_Idle.png,900,"0",100,120
+PlusSprite/Skeleton_Idle.png,1000,"0",100,120
+PlusSprite/Skeleton_Idle.png,1100,"0",100,120

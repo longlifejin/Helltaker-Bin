@@ -1,0 +1,10 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Skeleton_Damage,17,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/Skeleton_Damage.png,0,"0",100,120
+PlusSprite/Skeleton_Damage.png,100,"0",100,120
+PlusSprite/Skeleton_Damage.png,200,"0",100,120
+PlusSprite/Skeleton_Damage.png,300,"0",100,120
+PlusSprite/Skeleton_Damage.png,400,"0",100,120
+PlusSprite/Skeleton_Damage.png,500,"0",100,120

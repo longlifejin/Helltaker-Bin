@@ -1,0 +1,17 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Kick,17,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/Player_Kick.png,0,"0",100,100
+PlusSprite/Player_Kick.png,100,"0",100,100
+PlusSprite/Player_Kick.png,200,"0",100,100
+PlusSprite/Player_Kick.png,300,"0",100,100
+PlusSprite/Player_Kick.png,400,"0",100,100
+PlusSprite/Player_Kick.png,500,"0",100,100
+PlusSprite/Player_Kick.png,600,"0",100,100
+PlusSprite/Player_Kick.png,700,"0",100,100
+PlusSprite/Player_Kick.png,800,"0",100,100
+PlusSprite/Player_Kick.png,900,"0",100,100
+PlusSprite/Player_Kick.png,1000,"0",100,100
+PlusSprite/Player_Kick.png,1100,"0",100,100
+PlusSprite/Player_Kick.png,1200,"0",100,100

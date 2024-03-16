@@ -1,0 +1,12 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+success,17,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+Sprite/success0001.png,0,"0",1100,200
+Sprite/success0002.png,0,"0",1100,200
+Sprite/success0003.png,0,"0",1100,200
+Sprite/success0004.png,0,"0",1100,200
+Sprite/success0005.png,0,"0",1100,200
+Sprite/success0006.png,0,"0",1100,200
+Sprite/success0007.png,0,"0",1100,200
+Sprite/success0008.png,0,"0",1100,200

@@ -1,0 +1,16 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Pand_Idle,17,"1",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/Pandemonica.png,0,"0",100,140
+PlusSprite/Pandemonica.png,100,"0",100,140
+PlusSprite/Pandemonica.png,200,"0",100,140
+PlusSprite/Pandemonica.png,300,"0",100,140
+PlusSprite/Pandemonica.png,400,"0",100,140
+PlusSprite/Pandemonica.png,500,"0",100,140
+PlusSprite/Pandemonica.png,600,"0",100,140
+PlusSprite/Pandemonica.png,700,"0",100,140
+PlusSprite/Pandemonica.png,800,"0",100,140
+PlusSprite/Pandemonica.png,900,"0",100,140
+PlusSprite/Pandemonica.png,1000,"0",100,140
+PlusSprite/Pandemonica.png,1100,"0",100,140

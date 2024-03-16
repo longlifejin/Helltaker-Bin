@@ -1,0 +1,18 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+transition_Up,20,"0",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+Sprite/transition0002.png,0,"0",1924,244
+Sprite/transition0003.png,0,"0",1924,500
+Sprite/transition0004.png,0,"0",1924,752
+Sprite/transition0005.png,0,"0",1924,1008
+Sprite/transition0006.png,0,"0",1924,1084
+Sprite/transition0007.png,0,"0",1924,1084
+Sprite/transition0008.png,0,"0",1924,1084
+Sprite/transition0009.png,0,"0",1924,1084
+Sprite/transition0010.png,0,"0",1924,1084
+Sprite/transition0011.png,0,"0",1924,1084
+Sprite/transition0012.png,0,"0",1924,1084
+Sprite/transition0013.png,0,"0",1924,1084
+Sprite/transition0014.png,0,"0",1924,1084
+Sprite/transition0015.png,0,"0",1924,1084
