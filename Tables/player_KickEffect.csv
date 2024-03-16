@@ -2,7 +2,9 @@ ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
 player_KickEffect,17,"0",,
 ,,,,
 TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
-Texture2D/small_vfx0010.png,0,"0",100,100
-Texture2D/small_vfx0011.png,0,"0",100,100
-Texture2D/small_vfx0012.png,0,"0",100,100
-Texture2D/small_vfx0013.png,0,"0",100,100
+Texture2D/vfx0001.png,0,"0",228,228
+Texture2D/vfx0002.png,0,"0",228,228
+Texture2D/vfx0003.png,0,"0",228,228
+Texture2D/vfx0004.png,0,"0",228,228
+Texture2D/vfx0005.png,0,"0",228,228
+Texture2D/invisible.png,0,"0",100,100
