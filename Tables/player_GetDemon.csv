@@ -1,11 +1,16 @@
 ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
-GetDemon,17,"0",,
+GetDemon,8,"0",,
 ,,,,
 TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
 PlusSprite/Player_GetDemon.png,600,"0",100,140
+PlusSprite/Player_GetDemon.png,600,"0",100,140
+PlusSprite/Player_GetDemon.png,700,"0",100,140
 PlusSprite/Player_GetDemon.png,700,"0",100,140
 PlusSprite/Player_GetDemon.png,800,"0",100,140
+PlusSprite/Player_GetDemon.png,800,"0",100,140
 PlusSprite/Player_GetDemon.png,900,"0",100,140
+PlusSprite/Player_GetDemon.png,900,"0",100,140
+PlusSprite/Player_GetDemon.png,1000,"0",100,140
 PlusSprite/Player_GetDemon.png,1000,"0",100,140
 PlusSprite/Player_GetDemon.png,1100,"0",100,140
 PlusSprite/Player_GetDemon.png,1200,"0",100,140
