@@ -1,0 +1,16 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Zdra_Idle,17,"1",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/Zdrada.png,0,"0",100,100
+PlusSprite/Zdrada.png,100,"0",100,100
+PlusSprite/Zdrada.png,200,"0",100,100
+PlusSprite/Zdrada.png,300,"0",100,100
+PlusSprite/Zdrada.png,400,"0",100,100
+PlusSprite/Zdrada.png,500,"0",100,100
+PlusSprite/Zdrada.png,600,"0",100,100
+PlusSprite/Zdrada.png,700,"0",100,100
+PlusSprite/Zdrada.png,800,"0",100,100
+PlusSprite/Zdrada.png,900,"0",100,100
+PlusSprite/Zdrada.png,1000,"0",100,100
+PlusSprite/Zdrada.png,1100,"0",100,100

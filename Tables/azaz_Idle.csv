@@ -1,0 +1,16 @@
+ID,FPS,"LOOPTYPE(0 : Single, 1 : Loop, 2: PingPong)",,
+Azaz_Idle,17,"1",,
+,,,,
+TEXTURE ID,LEET,"TOP",WIDTH,HEIGHT
+PlusSprite/Azazel.png,0,"0",100,100
+PlusSprite/Azazel.png,100,"0",100,100
+PlusSprite/Azazel.png,200,"0",100,100
+PlusSprite/Azazel.png,300,"0",100,100
+PlusSprite/Azazel.png,400,"0",100,100
+PlusSprite/Azazel.png,500,"0",100,100
+PlusSprite/Azazel.png,600,"0",100,100
+PlusSprite/Azazel.png,700,"0",100,100
+PlusSprite/Azazel.png,800,"0",100,100
+PlusSprite/Azazel.png,900,"0",100,100
+PlusSprite/Azazel.png,1000,"0",100,100
+PlusSprite/Azazel.png,1100,"0",100,100
